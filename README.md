@@ -17,8 +17,8 @@ code . (or) atom .
 ```
 
 #### **Contact**
->Clement Kiptoo - <br>
->Live Link: 
+>Clement Kiptoo - <br> clementkiptoo1@gmail.com
+>Live Link: https://clementrck.github.io/pizzaKula/
 
 #### **Copyright & License**
 Distributed under the MIT License. See LICENSE for more information on license and copyright. 
