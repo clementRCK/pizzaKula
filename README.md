@@ -2,7 +2,6 @@
 
 #### **Description**
 *This web page will help in practicing and understanding better the conceptts which include working with constructors, prototypes, objects, properties, and methods in Javascript , jQuery and DOM manipulation & traversal.*
-
 #### **Languages Used**
 1. HTML5 
 2. CSS
